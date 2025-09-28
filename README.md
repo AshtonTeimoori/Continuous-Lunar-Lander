@@ -5,15 +5,18 @@ Has an average score of ~260 for the solution provided (rather high variance if 
 
 ### Score: ~230
 <!-- <video controls src="video/ContinuousLunarLander-230.mp4" title="Title"></video> -->
-![Lunar Lander 230](video/ContinuousLunarLander-230.gif)
+<!-- ![Lunar Lander 230](video/ContinuousLunarLander-230.gif) -->
+[![Lunar Lander 230](video/ContinuousLunarLander-230.gif)](./video/ContinuousLunarLander-230.mp4)
 
 ### Score: ~250
 <!-- <video controls src="video/ContinuousLunarLander-250.mp4" title="Title"></video> -->
-![Lunar Lander 250](video/ContinuousLunarLander-250.gif)
+<!-- ![Lunar Lander 250](video/ContinuousLunarLander-250.gif) -->
+[![Lunar Lander 250](video/ContinuousLunarLander-250.gif)](./video/ContinuousLunarLander-250.mp4)
 
 ### Score: ~280
 <!-- <video controls src="video/ContinuousLunarLander-279.mp4" title="Title"></video> -->
-![Lunar Lander 280](video/ContinuousLunarLander-279.gif)
+<!-- ![Lunar Lander 280](video/ContinuousLunarLander-279.gif) -->
+[![Lunar Lander 280](video/ContinuousLunarLander-279.gif)](./video/ContinuousLunarLander-279.mp4)
 
 ### Score: ~310
 <!-- <video controls src="video/ContinuousLunarLander-311.mp4" title="Title"></video> -->
