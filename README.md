@@ -17,4 +17,5 @@ Has an average score of ~260 for the solution provided (rather high variance if 
 
 ### Score: ~310
 <!-- <video controls src="video/ContinuousLunarLander-311.mp4" title="Title"></video> -->
-![Lunar Lander 310](video/ContinuousLunarLander-311.gif)
+<!-- ![Lunar Lander 310](video/ContinuousLunarLander-311.gif) -->
+[![Lunar Lander 310](video/ContinuousLunarLander-311.gif)](./video/ContinuousLunarLander-311.mp4)
